@@ -2,7 +2,7 @@
 
 This mobile application is very similar to Pinterest.
 
-#Installation
+# Installation
 
 Please set up a React Native development environment if you have not already done so.
 You will also need to install expo image picker, @expo/vector-icons and react native navigation.
